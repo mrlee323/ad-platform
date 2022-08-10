@@ -90,7 +90,7 @@ $ yarn start
 |---|---|---|
 |이가람|글로벌 타입 선언, 대시보드 페이지 Bar Chart제작|https://github.com/devmagrfs|
 |박소영|대시보드 페이지 상단 드롭다운, BoardItem, BoardList 컴포넌트|https://github.com/soyoung931014|
-|이미림|디자인 목업, 전체 레이아웃|https://github.com/mrlee323|
+|이미림|디자인 목업, 전체 레이아웃, 광고관리 페이지|https://github.com/mrlee323|
 |서소희|초기세팅, 상태 관리 라이브러리|https://github.com/greenish0902|
 |성열하|대시보드 페이지 표 제작|https://github.com/Hotsumm|
 |박지훈|차트 1드롭다운|https://github.com/JiehoonPark|

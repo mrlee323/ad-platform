@@ -2,7 +2,7 @@
 -------
 > by. 원티드 프리온보딩 4팀 (2022.07.14~19)
 > 
-> 🚀🚀 [배포 보러가기](https://wanted-preonboarding-tripbtoz.vercel.app)
+> 🚀🚀 [배포 보러가기](https://wanted-preonboarding-ad-platform.vercel.app/)
 
 
 
